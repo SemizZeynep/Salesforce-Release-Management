@@ -7,6 +7,6 @@
       "city": "New York",
       "country": "USA"
     },
-    "hobbies": ["reading", "traveling", "photography"],
+    "hobbies": ["reading", "traveling", "resim", "photography"],
     "isStudent": false
   }
